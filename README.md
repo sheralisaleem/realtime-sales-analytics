@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
 
 A robust, real-time Business Intelligence (BI) pipeline that simulates continuous live sales data streams and performs on-the-fly aggregations using **Apache Kafka** and **Apache Spark**.
+..... 
 
 ---
 
